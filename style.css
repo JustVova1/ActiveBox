@@ -128,7 +128,7 @@ intro
 //////////////////////////*/
 .intro{
     padding-top: 100px;
-    background: #31344e url(/ActiveBox/images/intro.jpg) center no-repeat  ;
+    background: #31344e url(images/intro.jpg) center no-repeat  ;
     height: 750px;
     background-size: cover;
 
